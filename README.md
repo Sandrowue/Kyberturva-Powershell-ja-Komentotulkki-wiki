@@ -1,2 +1,2 @@
 # Kyberturva
-Kyberturvaan liittyviä ohjeita ja dokumentteja
+Kyberturvaan ja komentotulkkiin liittyviä ohjeita ja dokumentteja
